@@ -12,8 +12,8 @@ import ImageSection from "@/components/ImageSection";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Free Next.js Template for Startup and SaaS",
-  description: "This is Home for Startup Nextjs Template",
+  title: "CodeAid",
+  description: "This is Home for CodeAid",
   // other metadata
 };
 
