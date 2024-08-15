@@ -44,7 +44,7 @@ const ImageSection = () => {
                 >
                   Google Women Techmakers
                 </Link>{" "}
-                - International Women's Day #DareToBe
+                - International Women&apos;s Day #DareToBe
               </p>
             </div>
           </div>
