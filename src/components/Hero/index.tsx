@@ -17,8 +17,7 @@ const Hero = () => {
                 <div className="mx-auto max-w-[800px] text-center">
                   <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
                     CodeAid empowers charities, NGOs and grassroot organisations
-                    with Digital Transformation Solutions, with an aim to create
-                    self-sustaince
+                    with Digital Transformation Solutions
                   </p>
                   <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                     <Link
