@@ -24,8 +24,8 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="Bringing Industry Standards to Charities"
+                paragraph="Charities deserve the same high-quality digital solutions as large enterprises. At CodeAid, we leverage our professional experience to apply industry techniques to the nonprofit sector. By doing so, we help charities achieve their goals with the same effectiveness and efficiency, ensuring they benefit from the best practices typically reserved for larger organizations"
                 mb="44px"
               />
 
@@ -35,15 +35,14 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Agile Methodologies" />
+                    <List text="Collaborative UX process" />
+                    <List text="Scalable & Maintainable Engineering" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="Brand Conscious" />
+                    <List text="Empathy Driven" />
                   </div>
                 </div>
               </div>
